@@ -2,7 +2,7 @@
 
 This folder contains all the AI games code. (Chess, Tik tac toe, Connect Four)
 
-
+--------
 # ♟️ Chess (AI vs Human)
 
 This is a simple Chess game where the user plays against an AI opponent. The AI uses classic game-tree search algorithms to make intelligent decisions.
@@ -33,7 +33,7 @@ The game continues until a checkmate, stalemate, or draw occurs.
 Standard chess rules apply.
 
 # 📸 Screenshot
-
+![Chess](https://github.com/Jannat-Neju/AI-Course/blob/8b770b5d1c628348e7c724cdc00153250aa8202d/AI%20Games/Screenshot%20(79).png)
 
 
 # 🤖 Algorithm Used
