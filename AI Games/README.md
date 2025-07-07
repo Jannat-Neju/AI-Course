@@ -21,14 +21,16 @@ Python 3.x
 
 pygame
 
-💡 Installation:
+##💡 Installation:
 If pygame is not installed, you can install it with:
 
 bash
 Copy
 Edit
 pip install pygame
-🕹️ How to Play
+
+
+##🕹️ How to Play
 You play as White.
 
 Use your mouse to click on a piece and then click the destination square to move.
@@ -39,11 +41,13 @@ The game continues until a checkmate, stalemate, or draw occurs.
 
 Standard chess rules apply.
 
-📸 Screenshot
-Replace the image below with your own screenshot named chess_screenshot.png
+
+##📸 Screenshot
+ chess_screenshot.png
 
 
-🤖 Algorithm Used
+
+##🤖 Algorithm Used
 🧠 Min-Max Algorithm with Alpha-Beta Pruning
 The AI simulates several possible future game states using the Min-Max algorithm.
 
@@ -52,7 +56,10 @@ Alpha-Beta Pruning optimizes the search by eliminating branches that don’t nee
 This allows the AI to make smarter moves without unnecessary calculations.
 
 
-# ❌⭕ Tic Tac Toe (AI vs Human)
+
+
+
+## ❌⭕ **Tic Tac Toe (AI vs Human)**
 
 A classic Tic Tac Toe game where the player competes against an AI that plays optimally using the Min-Max algorithm.
 
@@ -70,14 +77,16 @@ Python 3.x
 
 pygame
 
-💡 Installation:
+##💡 Installation:
 Install pygame using pip:
 
 bash
 Copy
 Edit
 pip install pygame
-🕹️ How to Play
+
+
+##🕹️ How to Play
 You play as X.
 
 The AI plays as O.
@@ -90,11 +99,13 @@ First player to align three of their marks horizontally, vertically, or diagonal
 
 If the board is full and no one has won, the game is a draw.
 
-📸 Screenshot
-Replace this with your own screenshot image named tictactoe_screenshot.png.
+
+##📸 Screenshot
+tictactoe_screenshot.png.
 
 
-🤖 Algorithm Used
+
+##🤖 Algorithm Used
 🧠 Min-Max Algorithm
 The AI simulates every possible game state and chooses the move that maximizes its chance of winning (or minimizes your chance).
 
@@ -103,10 +114,8 @@ It's an unbeatable AI — always playing the best move.
 
 
 
-## ✅ 📁 `AI Games/Connect4/README.md`
 
-```markdown
-# 🔴🟡 Connect 4 (AI vs Human)
+# **🔴🟡 Connect 4 (AI vs Human)**
 
 A strategic Connect 4 game where the player plays against a computer-controlled opponent using Min-Max with heuristic evaluation.
 
@@ -126,14 +135,16 @@ pygame
 
 numpy
 
-💡 Installation:
+##💡 Installation:
 Install dependencies using pip:
 
 bash
 Copy
 Edit
 pip install pygame numpy
-🕹️ How to Play
+
+
+##🕹️ How to Play
 You play as RED, the AI plays as YELLOW.
 
 Click on a column to drop your disc.
@@ -142,11 +153,11 @@ The first to connect 4 discs in a row (horizontally, vertically, or diagonally) 
 
 If the board fills up with no winner, it’s a draw.
 
-📸 Screenshot
-Replace with your actual screenshot image named connect4_screenshot.png.
+##📸 Screenshot
+connect4_screenshot.png.
 
 
-🤖 Algorithm Used
+##🤖 Algorithm Used
 🧠 Min-Max Algorithm with Heuristic Evaluation
 The AI uses the Min-Max algorithm to simulate future moves.
 
