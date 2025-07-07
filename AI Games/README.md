@@ -3,6 +3,8 @@
 This folder contains all the AI games code. (Chess, Tik tac toe, Connect Four)
 
 --------
+
+
 # ♟️ Chess (AI vs Human)
 
 This is a simple Chess game where the user plays against an AI opponent. The AI uses classic game-tree search algorithms to make intelligent decisions.
@@ -47,6 +49,8 @@ This allows the AI to make smarter moves without unnecessary calculations.
 
 -----
 
+
+
 #  ❌⭕ Tic Tac Toe (AI vs Human)
 A classic Tic Tac Toe game where the player competes against an AI that plays optimally using the Min-Max algorithm.
 
@@ -90,6 +94,8 @@ It's an unbeatable AI — always playing the best move.
 
 ------
 
+
+
 # 🔴🟡 Connect 4 (AI vs Human)
 A strategic Connect 4 game where the player plays against a computer-controlled opponent using Min-Max with heuristic evaluation.
 
@@ -115,7 +121,7 @@ The first to connect 4 discs in a row (horizontally, vertically, or diagonally) 
 If the board fills up with no winner, it’s a draw.
 
 ## 📸 Screenshot
-connect4_screenshot.png.
+![Connect-4](https://github.com/Jannat-Neju/AI-Course/blob/e08217b9792fa62d138fffb76f142f276d62d8e7/AI%20Games/Screenshot%20(81).png)
 
 
 ## 🤖 Algorithm Used
