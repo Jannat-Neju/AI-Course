@@ -59,7 +59,7 @@ This allows the AI to make smarter moves without unnecessary calculations.
 
 
 
-## ❌⭕ **Tic Tac Toe (AI vs Human)**
+# ❌⭕ Tic Tac Toe (AI vs Human)
 
 A classic Tic Tac Toe game where the player competes against an AI that plays optimally using the Min-Max algorithm.
 
@@ -115,7 +115,7 @@ It's an unbeatable AI — always playing the best move.
 
 
 
-# **🔴🟡 Connect 4 (AI vs Human)**
+# 🔴🟡 Connect 4 (AI vs Human)
 
 A strategic Connect 4 game where the player plays against a computer-controlled opponent using Min-Max with heuristic evaluation.
 
