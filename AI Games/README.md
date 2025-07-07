@@ -33,7 +33,7 @@ The game continues until a checkmate, stalemate, or draw occurs.
 Standard chess rules apply.
 
 # 📸 Screenshot
-chess_screenshot.png
+
 
 
 # 🤖 Algorithm Used
