@@ -59,7 +59,7 @@ This allows the AI to make smarter moves without unnecessary calculations.
 
 
 
-# ❌⭕ Tic Tac Toe (AI vs Human)
+#❌⭕ Tic Tac Toe (AI vs Human)
 
 A classic Tic Tac Toe game where the player competes against an AI that plays optimally using the Min-Max algorithm.
 
