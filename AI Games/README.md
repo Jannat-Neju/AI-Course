@@ -79,7 +79,7 @@ If the board is full and no one has won, the game is a draw.
 
 
 ## 📸 Screenshot
-tictactoe_screenshot.png.
+![Tic tac toe](https://github.com/Jannat-Neju/AI-Course/blob/3a5687e1247492402cd681bfb48de09e7f749c68/AI%20Games/Screenshot%20(80).png)
 
 
 ## 🤖 Algorithm Used
