@@ -13,4 +13,5 @@ This course is designed to introduce students to fundamental and advanced topics
 [6 month, January 2025 – June 2025]
 
 ## 👨‍🏫 Supervisor’s Name
-[Razorshi Prozzwal Talukder]
+Razorshi Prozzwal Talukder
+Lecturer, North East University Bangladesh
