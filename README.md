@@ -10,8 +10,9 @@ This course is designed to introduce students to fundamental and advanced topics
 - Understood the theoretical and practical aspects of AI problem-solving
 
 ## 🕒 Duration of the Course
-[6 month, January 2025 – June 2025]
+6 month, January 2025 – June 2025
 
 ## 👨‍🏫 Supervisor’s Name
 Razorshi Prozzwal Talukder
+
 Lecturer, North East University Bangladesh
