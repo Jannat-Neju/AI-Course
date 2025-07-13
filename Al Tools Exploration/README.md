@@ -22,6 +22,9 @@ Script Preparation: I first wrote a professional, scene-wise script including 10
 
 . Reference for voiceover: Using AI Voice in InVideo
 
+
+[My video is here](https://drive.google.com/drive/u/0/folders/1gvgRFrZviwy7oEQfR29WL4SUlwzFc89V)
+
 [Link is here ](https://youtube.com/shorts/Fu86B_bs7SU?si=3nBbjjvQs9fs4zGh)
 
 
@@ -50,6 +53,8 @@ Slide Planning: I outlined the structure of my presentation including introducti
 . Gamma Help Guide: How to Create a Presentation with Gamma
 
 . Blog inspiration: Gamma AI Presentation Tips
+
+[My presentation is here](https://drive.google.com/drive/u/0/folders/1gvgRFrZviwy7oEQfR29WL4SUlwzFc89V)
 
 [Link is here](https://youtu.be/ivkfYzIQ3oI?si=3nvK0tV1ZW7At906)
 
