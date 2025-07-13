@@ -1,4 +1,4 @@
-# Video Creation with InVideo.ai
+# 🎥 1. Video Creation with InVideo.ai
 I created a 1-minute professional video summarizing my Artificial Intelligence project using InVideo.ai. Here’s how I did it:
 
 # ✅Steps Followed:
@@ -18,9 +18,12 @@ Final Export: The video was previewed, edited for pacing, and exported in HD for
 InVideo Tutorial: How to Make Educational Videos with InVideo
 
 Reference for voiceover: Using AI Voice in InVideo
+[Link is here ](https://youtube.com/shorts/Fu86B_bs7SU?si=3nBbjjvQs9fs4zGh)
 
 
 ------
+
+
 
 # 🖥️ 2. Presentation Creation with Gamma.app
 I designed a 10-slide educational presentation based on chapters 1–8 of Stuart Russell & Peter Norvig’s Artificial Intelligence: A Modern Approach, using Gamma.app.
@@ -40,6 +43,8 @@ Content Review: I edited text for clarity and accuracy, adjusted visuals, and en
 Gamma Help Guide: How to Create a Presentation with Gamma
 
 Blog inspiration: Gamma AI Presentation Tips
+
+[Link is here](https://youtu.be/ivkfYzIQ3oI?si=3nvK0tV1ZW7At906)
 
 
 
