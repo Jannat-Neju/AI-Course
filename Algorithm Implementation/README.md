@@ -5,6 +5,7 @@ This folder contains all the AI search algorithm codes.
 
 Added Algorithm Implementation folder
 
+
 # Breadth-First Search (BFS)
 
 ### 🔸 How It Works
@@ -20,8 +21,6 @@ BFS explores nodes level by level. It starts at the root node and explores all i
 - **Time:** O(V + E)
 - **Space:** O(V)
 
-### 🔹 Input/Output
-![BFS Example](images/bfs_output.png)
 
 
 # Depth-First Search (DFS)
@@ -38,8 +37,6 @@ DFS explores as far as possible along each branch before backtracking. It uses a
 - **Time:** O(V + E)
 - **Space:** O(V)
 
-### 🔹 Input/Output
-![DFS Example](images/dfs_output.png)
 
 
 # Iterative Deepening Search (IDS)
@@ -55,8 +52,6 @@ IDS performs DFS to a depth limit, then increases the depth limit until the goal
 - **Time:** O(b^d)
 - **Space:** O(d)
 
-### 🔹 Input/Output
-![IDS Example](images/ids_output.png)
 
 
 # Best First Search
@@ -73,8 +68,6 @@ Best First Search uses a priority queue and selects the node with the lowest heu
 - **Time:** O(n log n)
 - **Space:** O(n)
 
-### 🔹 Input/Output
-![Best First Search Example](images/bestfirst_output.png)
 
 
 # A* Algorithm
@@ -95,9 +88,6 @@ It’s complete and optimal if `h(n)` is admissible.
 - **Time:** O(E)
 - **Space:** O(V)
 
-### 🔹 Input/Output
-![A Star Output](images/a_star_output.png)
-
 
 
 # Depth-Limited Search (DLS)
@@ -114,8 +104,6 @@ DLS is a version of DFS with a maximum depth limit. It prevents infinite loops i
 - **Time:** O(b^l) where `l` is the depth limit
 - **Space:** O(l)
 
-### 🔹 Input/Output
-![DLS Example](images/dls_output.png)
 
 
 # Bidirectional Search
@@ -131,9 +119,6 @@ Bidirectional Search runs two simultaneous searches: one from the start node and
 ### 🔸 Time & Space Complexity
 - **Time:** O(b^(d/2))
 - **Space:** O(b^(d/2))
-
-### 🔹 Input/Output
-![Bidirectional Output](images/bidirectional_output.png)
 
 
 
@@ -151,8 +136,6 @@ AO* works on AND-OR graphs, where some nodes require solving multiple sub-proble
 - **Time:** Depends on heuristic accuracy; varies
 - **Space:** Depends on branching in AND/OR trees
 
-### 🔹 Input/Output
-![AO Star Output](images/ao_star_output.png)
 
 
 # Hill Climbing Algorithm
@@ -168,9 +151,6 @@ Hill Climbing is a local search algorithm that moves towards increasing value (b
 ### 🔸 Time & Space Complexity
 - **Time:** O(n)
 - **Space:** O(1)
-
-### 🔹 Input/Output
-![Hill Climbing Output](images/hill_climbing_output.png)
 
 
 
@@ -190,9 +170,6 @@ Beam Search is like BFS but only keeps the best ‘k’ paths at each level. Thi
 
 > `k` is the beam width, `d` is depth
 
-### 🔹 Input/Output
-![Beam Search Output](images/beam_output.png)
-
 
 
 # Min-Max Algorithm
@@ -209,9 +186,6 @@ Min-Max is a decision-making algorithm used in 2-player games. One player tries 
 - **Time:** O(b^d)
 - **Space:** O(bd)
 
-### 🔹 Input/Output
-![Min-Max Output](images/minmax_output.png)
-
 
 
 # Alpha-Beta Pruning
@@ -227,7 +201,5 @@ An optimization of Min-Max that avoids exploring branches that won’t affect th
 - **Time:** O(b^(d/2)) [in best case]
 - **Space:** O(bd)
 
-### 🔹 Input/Output
-![Alpha Beta Output](images/alpha_beta_output.png)
 
 
